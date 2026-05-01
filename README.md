@@ -1,5 +1,4 @@
-# Python-Adventures
-🐍 Python Learning Journey
+# 🐍 Python Learning Journey
 Welcome to my Python repository! This project documents my progression from beginner fundamentals to advanced concepts in Python programming.
 📚 About
 This repository is a collection of code, exercises, and projects that reflect my growth as a Python developer. It starts with basic syntax and core programming concepts, then gradually moves toward more complex topics and real-world applications.
