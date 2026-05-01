@@ -8,6 +8,7 @@ This repository is a collection of code, exercises, and projects that reflect my
 
 ## 🚀 What You'll Find
 ###Beginner Level
+
   ➜ Variables, data types, and operators
   ➜ Control flow (if statements, loops)
   ➜ Functions and basic problem-solving
