@@ -2,10 +2,10 @@
 Project Name: Type Casting
 File Name: type_casting.py
 Author: Nagi
-Date:5/3/2026
+Date: 5/3/2026
 
 Description:
-    Typecasting = the process of converting a variable from one data to another.
+    Typecasting = the process of converting a variable from one data to another with comments and different examples.
                     str(), int(), float(), bool()
 """
 #This is our lis of different types of variables
