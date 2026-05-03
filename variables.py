@@ -2,9 +2,9 @@
 Project Name: Variables
 File Name: variable.py
 Author: Nagi
-Date: 5/1/2026
+Date: 5/2/2026
 
-Description:
+Description: A introduction to using variables and different types.
     Variable = A container for a value (string, integer, float, boolean)
     A variable beaves as if it was the value it contains.
 """
