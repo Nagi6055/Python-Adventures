@@ -34,6 +34,7 @@ l = float(input("Enter your lenght: "))
 A = w * l 
 
 #to add a subscript 2 -> make sure numlock is on, hold alt, then type 0178 on Windows
+#This will print the statement with the answer for the area.
 print(f"The area is: {A}cm")
 
 
