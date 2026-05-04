@@ -42,8 +42,12 @@ print(f"The area is: {A}cm")
 
 #Exercise 2 Shopping Cart Program
 
+#Will be getting the user input in different types
+#as a str
 item = input("What item would you like to buy?: ")
+#as a float
 price = float(input("What is the price?: "))
+#as a int
 quantity = int(input("How many woud you like?: "))
 
 total = price * quantity
