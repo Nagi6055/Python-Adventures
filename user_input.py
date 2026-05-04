@@ -30,6 +30,7 @@ print(f"You are {age} years old")
 w = float(input("Enter your width: "))
 l = float(input("Enter your lenght: "))
 
+#The equation for finding the Area
 A = w * l 
 
 #to add a subscript 2 -> make sure numlock is on, hold alt, then type 0178 on Windows
