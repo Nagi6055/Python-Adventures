@@ -50,6 +50,7 @@ price = float(input("What is the price?: "))
 #as a int
 quantity = int(input("How many woud you like?: "))
 
+#This code is the equation to get the total of the price with quantity
 total = price * quantity
 
 print(f"You have bought {quantity} x {item}/s")
