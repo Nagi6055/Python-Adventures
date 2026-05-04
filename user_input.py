@@ -53,7 +53,9 @@ quantity = int(input("How many woud you like?: "))
 #This code is the equation to get the total of the price with quantity
 total = price * quantity
 
+#Will pretty much repeat what the customer has inputed 
 print(f"You have bought {quantity} x {item}/s")
+#Printing out the total
 print(f"Your total is: ${total}")
 
 
