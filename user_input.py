@@ -26,6 +26,7 @@ print(f"You are {age} years old")
 
 #Exercise 1 Rectangle Area Calculation 
 
+#We will take the users input and turn them into floats
 w = float(input("Enter your width: "))
 l = float(input("Enter your lenght: "))
 
