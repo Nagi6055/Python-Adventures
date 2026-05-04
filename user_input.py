@@ -4,7 +4,7 @@ File Name: user_input.py
 Author: Nagi
 Date: 5/4/2026
 
-Description:
+Description: This program will be taking the user inputs using a prompt for them to answer then we will e doing some exercises.
     input() = A function that prompts the user to enter data
                 Returns the entered data as a string 
 """
