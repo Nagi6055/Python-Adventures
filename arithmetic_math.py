@@ -8,3 +8,9 @@ Description:
     arithmetic operators, math functions, a few functions with the math module, and some exercises. Mainly learning how to do math in python and knowing how to use the math functions
 
 """
+
+friends = 0
+
+friends = friends + 1
+
+print(friends)
